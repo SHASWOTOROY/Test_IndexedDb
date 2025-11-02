@@ -791,11 +791,5 @@ public async Task<bool> SyncAsync()
 **The Flow:**
 ```
 UI → C# Service → JavaScript → IndexedDB → JavaScript → C# Service → UI
-```
-
-Every operation follows this pattern! 🚀
-
----
-
-**That's how IndexedDB works in this project!** Any questions? Feel free to ask! 😊
+�
 
